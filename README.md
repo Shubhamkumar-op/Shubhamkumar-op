@@ -1,5 +1,6 @@
 ![logo](https://github.com/Shubhamkumar-op/Shubhamkumar-op/blob/main/My%20project-1.png)
 [![@shubkumar's Holopin board](https://holopin.me/shubkumar)](https://holopin.io/@shubkumar)
+<a href="https://quine.sh/profile/shubhkumarOP"><img src="https://stats.quine.sh/shubhkumarOP/github" alt="Shubham kumar singh's GitHub stats" width="840px"></a>
 
 <h1 align="center">Hi 👋, I'm Shubham kumar singh</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
