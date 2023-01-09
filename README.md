@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham kumar singh</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
-<img align="right"bb alt="coding" width="500" src="https://i.pinimg.com/originals/4a/b5/a4/4ab5a441a00ac705c0e97a8897b49331.gif">
+<img align="right"bb alt="coding" width="400" src="https://i.pinimg.com/originals/4a/b5/a4/4ab5a441a00ac705c0e97a8897b49331.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-op&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar-op" /> </p>
 
