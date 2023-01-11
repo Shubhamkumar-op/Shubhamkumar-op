@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham kumar singh</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
-<img align="right"bb alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4778sk2v8ld1iz5fhlv7voeymz6enou938srb2l91o&rid=giphy.gif&ct=g">>
+<img align="right"bb alt="coding" width="400" src="https://i.pinimg.com/originals/c5/f0/6c/c5f06cb3309393f3922761354b7304e3.gif">>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-op&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar-op" /> </p>
 
