@@ -1,4 +1,4 @@
-![logo](https://github.com/Shubhamkumar-op/Shubhamkumar-op/blob/main/My%20project-1.png)
+![logo](https://github.com/Shubhamkumar-op/Shubhamkumar-op/blob/main/Machine%20Learning.gif)
 [![@shubkumar's Holopin board](https://holopin.me/shubkumar)](https://holopin.io/@shubkumar)
 
 <h1 align="center">Hi 👋, I'm Shubham kumar singh</h1>
