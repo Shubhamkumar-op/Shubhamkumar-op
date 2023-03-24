@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-op&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar-op" /> </p>
 
 
-- 🌱 I’m currently learning **python,flask**
+- 🌱 I’m currently learning **python,fastapi**
 
 - 📫 How to reach me **singhshubhamkumar778@gmail.com**
 
