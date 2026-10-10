@@ -6,9 +6,9 @@
 
 <p align="center">
   <img
-    src="https://github.com/Shubhamkumar-op/Shubhamkumar-op/blob/main/Machine%20Learning%20(1).gif"
+    src="./a_dark_high_contrast_ascii_art_typographic_port.png"
     width="700"
-    alt="Machine Learning"
+    alt="Shubham Kumar Singh - ASCII Portrait"
   />
 </p>
 
@@ -172,8 +172,6 @@ My goal is to build systems where **machine learning models are not just trained
       alt="GitHub Followers"
     />
   </a>
-
-  
 
   <a href="https://github.com/Shubhamkumar-op?tab=repositories">
     <img
