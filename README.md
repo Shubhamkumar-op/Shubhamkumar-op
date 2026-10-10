@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="./a_dark_high_contrast_ascii_art_typographic_port.png"
+    src="./ASCII Profile Portrait in a Hoodie.png"
     width="700"
     alt="Shubham Kumar Singh - ASCII Portrait"
   />
